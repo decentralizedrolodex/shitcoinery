@@ -1,0 +1,46 @@
+
+## gmi Overview
+
+Upshot gmi is a powerful metric that identifies high-performing wallets and provides insights into the metaverse's identity and reputation. 
+It helps answer complex questions like "should we lend to this wallet?" or simple ones like "are they gonna make it?"
+
+To mature the nascent space, we need accurate asset pricing and persistent reputation. These components contribute reciprocally to each other's accuracy. 
+Producing accurate NFT pricing involves grading parties in transactions. Quantifying different wallets and their activity in the NFT space is a challenge, and 
+gmi addresses this.
+
+### How gmi is Calculated
+
+gmi factors include:
+- Realized/Unrealized gains
+- Number of transactions
+- Transaction volume
+- Number of NFTs
+- Number of Premium/Blue Chip NFTs
+- Age of wallet
+- Number of Collections
+
+Currently, gmi focuses on Ethereum transactions. Categories such as 1/1s, editions, membership tokens, and virtual land are not included in the calculation.
+
+### gmi Categories
+
+| Name         | Score   | Description                            |
+|--------------|---------|----------------------------------------|
+| based god    | > 975   | Legendary wallets, big collectors     |
+| based        | 900-975 | Based                                  |
+| full degen   | 700-900 | Full-time degeneracy                   |
+| part degen   | 400-700 | Part-time degeneracy                   |
+| tourist      | 100-400 | Browsing, mostly                       |
+| ngmi         | < 100   | Sadly, ngmi                            |
+
+### Checking a Wallet's gmi Score
+
+To check a wallet's gmi score, visit [upshot.xyz/gmi](https://upshot.xyz/gmi). Developers can also access gmi through the Upshot API.
+
+### Additional gmi Considerations
+
+Reputation and degeneracy vary in the space. The challenge of attributing gains to different wallets arises when NFT collectors hold NFTs across multiple 
+wallets. For the current gmi version, the wallet that last purchased the NFT is attributed with the gain/loss upon sale, regardless of transfers between 
+purchases and sales.
+
+Subsequent gmi versions aim to solve these challenges and provide more accurate wallet assessment.
+

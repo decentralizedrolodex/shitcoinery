@@ -1,0 +1,21 @@
+Shitcoin Analytics - tg and discord bot - etherscan api and dexscreener api
+
+•Number of token holders
+
+•Dormant wallets: Wallets that have not been active in a certain period of time, typically 6 months or more. These wallets are less likely to be traded, so they represent a less liquid portion of the altcoin's supply.
+
+•Fresh wallets: Wallets that have recently been created. These wallets are more likely to be traded, so they represent a more liquid portion of the altcoin's supply.
+
+•Good wallets: Wallets that have a history of holding altcoins for long periods of time. These wallets are less likely to sell their altcoins, so they represent a more stable portion of the altcoin's supply.
+
+•BabyProfit rotators: Wallets that frequently trade altcoins. These wallets are more likely to sell their altcoins, so they represent a more volatile portion of the altcoin's supply.
+
+•Average TX per wallet: The average number of transactions per wallet. This is a measure of how active the altcoin's holders are.
+
+•Average TX weighted supply: The average amount of altcoin traded per transaction. This is a measure of the altcoin's liquidity.
+
+•Supply in fresh wallets: The amount of altcoin held by fresh wallets. This is a measure of the altcoin's potential for growth.
+
+•Supply controlled by BabyProfit Holders: The amount of altcoin controlled by BabyProfit rotators. This is a measure of the altcoin's volatility.
+
+•Supply controlled by top 10: The amount of altcoin controlled by the top 10 wallets. This is a measure of the altcoin's centralization.
